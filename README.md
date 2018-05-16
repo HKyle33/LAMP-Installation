@@ -1,4 +1,4 @@
-# LAMP (Linux + Apache + MariaDB + PHP) Installation with Ubuntu 16.04/18.04
+# LAMP Stack (Linux + Apache + MariaDB + PHP) Installation with Ubuntu 16.04/18.04
 ICST241 Partial Project Completion  
 Group 3: Baldo, Bracero, Lacerno, Orendain, Severo  
 Operating System: Ubuntu 16.04/18.04 Desktop

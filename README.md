@@ -1,1 +1,1 @@
-# LAMP-Installation
+# LAMP Installation

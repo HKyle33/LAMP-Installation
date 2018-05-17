@@ -79,6 +79,10 @@ chown www-data /var/www/html
 At this point, you already have succesfully installed and configured Apache in your system.
 
 ## Installing MariaDB 10
+Install MariaDB with this command
+````
+apt install mariadb-client-core-10.1
+````
 Command for the installation of both server and client
 ```
 apt-get -y install mariadb-server mariadb-client

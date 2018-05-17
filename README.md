@@ -5,8 +5,8 @@ Operating System: Ubuntu 16.04/18.04 Desktop
 
 ### Roles
 Baldo - Documentation, Installation, and Live Demonstration  
-Bracero - Documentation, Tutorial Recording, and Installation  
-Lacerna - Recording, Editing, and Installation  
+Bracero - Live Demo, Documentation, Tutorial Recording, and Installation  
+Lacerna - Live Demo, Recording, Editing, and Installation  
 Orendain - Live Demonstration, Recording and Installation  
 Severo - Live Demonstration, Installation, and Recording  
 

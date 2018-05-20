@@ -132,7 +132,7 @@ touch /etc/apt/apt.conf.d/proxy.conf
 ```
 Open the proxy.conf file with a text editor of your choice (In this case, it's nano again)
 ```
-sudo gedit /etc/apt/apt.conf.d/proxy.conf
+sudo nano /etc/apt/apt.conf.d/proxy.conf
 ```
 Add these lines to the `proxy.conf` file to set your HTTP and HTTPS proxy
 ```
